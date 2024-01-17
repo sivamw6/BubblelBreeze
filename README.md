@@ -1,6 +1,5 @@
 # Bubble Breeze E-commerce Platform
 
-````markdown
 ![Website Image](/assets/bubble-breeze.png "This is an example image")
 
 ## Introduction
@@ -36,10 +35,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repo
+
    ```bash
    git clone https://github.com/your_username_/BubbleBreeze.git
    ```
-````
 
 2. Install NPM packages
    ```bash
@@ -78,3 +77,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [maviswang.6@gmail.com](mailto:maviswang.6@gmail.com)
 
 Project Link: [https://github.com/your*username*/BubbleBreeze](https://github.com/your_username_/BubbleBreeze)
+
+```
+
+```
